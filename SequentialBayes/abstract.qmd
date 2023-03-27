@@ -87,3 +87,9 @@ Results from our method compared with unconditional ensemble variogram.
 ## SIGNIFICANCE/NOVELTY 
 <!-- (429/600 characters)  -->
 To our understanding, this framework is the first geological carbon storage monitoring model that continuously assimilates information with seismic observations, updates the CO~2~ plume predictions, and characterizes uncertainties on the plume itself. Because our predictions are conditioned by the physics, we expect this method to extend to larger and more realistic model sources of uncertainty (permeability, topology, etc).
+
+### References
+
+::: {#refs}
+:::
+
